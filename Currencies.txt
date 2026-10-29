@@ -1,0 +1,222 @@
+United States of America#//#USD#//#US Dollar#//#1.000000
+Afghanistan#//#AFN#//#Afghanistan Afghani#//#65.809998
+Albania#//#ALL#//#Albania Lek(e)#//#80.650002
+Algeria#//#DZD#//#Algerian Dinar#//#132.940002
+American Samoa#//#USD#//#US Dollar#//#1.000000
+France#//#EUR#//#Euro#//#0.866190
+Angola#//#AOA#//#Angolan Kwanza#//#916.890015
+Anguilla#//#XCD#//#E.C. Dollar#//#2.744600
+Antigua and Barbuda#//#XCD#//#E.C. Dollar#//#2.744600
+Argentina#//#ARS#//#Argentine Peso#//#1498.119995
+Armenia#//#AMD#//#Armenian Dram#//#365.760010
+Aruba#//#AWG#//#Aruban Guilder#//#1.790200
+Australia#//#AUD#//#Australian Dollar#//#1.421100
+Austria#//#EUR#//#Euro#//#0.866190
+Azerbaijan#//#AZN#//#Azerbaijan Manat#//#1.699500
+Bahamas#//#BSD#//#Bahamian Dollar#//#1.011600
+Bahrain#//#BHD#//#Bahraini Dinar#//#0.376000
+Bangladesh#//#BDT#//#Bangladesh Taka#//#123.750000
+Barbados#//#BBD#//#Barbados Dollar#//#2.035700
+Belarus#//#BYN#//#Belarusian Ruble#//#2.952100
+Belgium#//#EUR#//#Euro#//#0.866190
+Belize#//#BZD#//#Belize Dollar#//#2.035000
+Benin#//#XOF#//#CFA Franc#//#568.179993
+Bermuda#//#BMD#//#Bermuda Dollar#//#1.000000
+Bhutan#//#BTN#//#Bhutan Ngultrum#//#95.209999
+Bolivia#//#BOB#//#Bolivia Boliviano#//#11.958600
+Bosnia and Herzegovina#//#BAM#//#Bosnia and Herzegovina Convertible Mark#//#1.694100
+Botswana#//#BWP#//#Botswana Pula#//#13.364400
+Brazil#//#BRL#//#Brazilian Real#//#5.106700
+Brunei#//#BND#//#Brunei Dollar#//#1.281700
+Bulgaria#//#EUR#//#Euro#//#0.866190
+Burkina Faso#//#XOF#//#CFA Franc#//#568.179993
+Burundi#//#BIF#//#Burundi Franc#//#2995.500000
+Cambodia#//#KHR#//#Cambodian Riel#//#4057.080078
+Cameroon#//#XAF#//#CFA Franc#//#568.179993
+Canada#//#CAD#//#Canadian Dollar#//#1.400200
+Canary Islands#//#EUR#//#Euro#//#0.866190
+Cape Verde#//#CVE#//#Cape Verde Escudo#//#95.510002
+Cayman Islands#//#KYD#//#Cayman Is. Dollar#//#0.837210
+Central African Republic#//#XAF#//#CFA Franc#//#568.179993
+Chad#//#XAF#//#CFA Franc#//#568.179993
+Chile#//#CLP#//#Chilean Peso#//#914.599976
+China#//#CNY#//#Chinese Renminbi#//#6.744400
+Colombia#//#COP#//#Colombian Peso#//#3162.570068
+Comoros#//#KMF#//#Comoros Franc#//#427.100006
+Congo#//#XAF#//#CFA Franc#//#568.179993
+"Congo, Dem. Rep."#//#CDF#//#"Congo Franc, Dem. Rep.of"#//#2268.020020
+Cook Islands#//#NZD#//#New Zealand Dollar#//#1.702100
+Costa Rica#//#CRC#//#Costa Rica Colon#//#452.010010
+Cote d'Ivoire#//#XOF#//#CFA Franc#//#568.179993
+Croatia#//#EUR#//#Euro#//#0.866190
+Cuba#//#CUP#//#Cuban Peso#//#24.000000
+Cyprus#//#EUR#//#Euro#//#0.866190
+Czech Republic#//#CZK#//#Czech Koruna#//#21.009001
+Denmark#//#DKK#//#Danish Krone#//#6.478900
+Djibouti#//#DJF#//#Djibouti Francs#//#177.119995
+Dominica#//#XCD#//#E.C. Dollar#//#2.744600
+Dominican Republic#//#DOP#//#Dominican Peso#//#59.235001
+East Timor#//#USD#//#US Dollar#//#1.000000
+Ecuador#//#USD#//#US Dollar#//#1.000000
+Egypt#//#EGP#//#Egyptian Pound#//#49.782001
+El Salvador#//#USD#//#US Dollar#//#1.000000
+Equatorial Guinea#//#XAF#//#CFA Franc#//#568.179993
+Eritrea#//#ERN#//#Eritrea Nakfa#//#15.266900
+Estonia#//#EUR#//#Euro#//#0.866190
+"Eswatini, Kingdom of"#//#SZL#//#Lilangeni#//#16.286900
+Ethiopia#//#ETB#//#Ethiopian Birr#//#160.330002
+Fiji#//#FJD#//#Fiji Dollar#//#2.226200
+Finland#//#EUR#//#Euro#//#0.866190
+France#//#EUR#//#Euro#//#0.866190
+French Guiana#//#EUR#//#Euro#//#0.866190
+French Polynesia#//#XPF#//#CFP Franc#//#103.449997
+Gabon#//#XAF#//#CFA Franc#//#568.179993
+Gambia#//#GMD#//#Gambian Dalasi#//#73.103996
+Georgia#//#GEL#//#Georgian Lari#//#2.616100
+Germany#//#EUR#//#Euro#//#0.866190
+Ghana#//#GHS#//#Ghana Cedi#//#11.838400
+Gibraltar#//#GIP#//#Gibraltar Pound#//#0.751600
+Greece#//#EUR#//#Euro#//#0.866190
+Greenland#//#DKK#//#Danish Krone#//#6.478900
+Grenada#//#XCD#//#E.C. Dollar#//#2.744600
+Guadeloupe#//#EUR#//#Euro#//#0.866190
+Guam#//#USD#//#US Dollar#//#1.000000
+Guatemala#//#GTQ#//#Guatemala Quetzal(es)#//#7.629000
+Guinea#//#GNF#//#Guinean Franc#//#8770.000000
+Guinea-Bissau#//#XOF#//#CFA Franc#//#568.179993
+Guyana#//#GYD#//#Guyana Dollar#//#211.539993
+Haiti#//#HTG#//#Haiti Gourde#//#130.699997
+Honduras#//#HNL#//#Honduras Lempira#//#26.826000
+Hong Kong#//#HKD#//#HongKong Dollar#//#7.851800
+Hungary#//#HUF#//#Hungary Forint#//#315.799988
+Iceland#//#ISK#//#Iceland Krona#//#123.389999
+India#//#INR#//#Indian Rupee#//#95.209999
+Indonesia#//#IDR#//#Indonesia Rupiah#//#17886.000000
+Iran#//#IRR#//#Iranian Rial#//#1364776.000000
+Iraq#//#IQD#//#Iraqi Dinar#//#1309.119995
+Ireland#//#EUR#//#Euro#//#0.866190
+Israel#//#ILS#//#Israel Shekel#//#3.006600
+Italy#//#EUR#//#Euro#//#0.866190
+Jamaica#//#JMD#//#Jamaican Dollar#//#157.270004
+Japan#//#JPY#//#Japanese Yen#//#158.190002
+Jordan#//#JOD#//#Jordanian Dinar#//#0.708000
+Kazakhstan#//#KZT#//#Kazakhstan Tenge#//#468.579987
+Kenya#//#KES#//#Kenyan Shilling#//#129.220001
+Kiribati#//#AUD#//#Australian Dollar#//#1.421100
+"Korea, D.P.R. of"#//#KPW#//#"Korean Won, North Korea"#//#900.000000
+"Korea, Republic of"#//#KRW#//#"Korean Won, South Korea"#//#1419.510010
+Kuwait#//#KWD#//#Kuwaiti Dinar#//#0.307750
+Kyrgyzstan#//#KGS#//#Kyrgyzstan Som#//#87.459999
+"Lao, People's Dem. Rep."#//#LAK#//#Laos Kip#//#22494.000000
+Latvia#//#EUR#//#Euro#//#0.866190
+Lebanon#//#LBP#//#Lebanese Pound#//#89918.000000
+Lesotho#//#LSL#//#Lesotho Loti#//#16.240601
+Liberia#//#LRD#//#Liberian Dollar#//#181.240005
+Libyan Arab Jamahiriya#//#LYD#//#Libyan Dinar#//#6.368500
+Liechtenstein#//#CHF#//#Swiss Franc#//#0.810010
+Lithuania#//#EUR#//#Euro#//#0.866190
+Luxembourg#//#EUR#//#Euro#//#0.866190
+Macao#//#MOP#//#Macao Pataca#//#8.087400
+Madagascar#//#MGA#//#"Malagasy Ariary, Madagascar"#//#4264.509766
+Malawi#//#MWK#//#Malawi Kwacha#//#1737.319946
+Malaysia#//#MYR#//#Malaysia Ringgit#//#4.089900
+Maldives#//#MVR#//#Maldives Rufiyaa#//#15.394800
+Mali#//#XOF#//#CFA Franc#//#568.179993
+Malta#//#EUR#//#Euro#//#0.866190
+Marshall Islands#//#USD#//#US Dollar#//#1.000000
+Martinique#//#EUR#//#Euro#//#0.866190
+Mauritania#//#MRU#//#Mauritania Ouguiya#//#40.103001
+Mauritius#//#MUR#//#Mauritius Rupee#//#47.125000
+Mexico#//#MXN#//#Mexican Peso#//#17.182400
+Micronesia#//#USD#//#US Dollar#//#1.000000
+"Moldova, Republic of"#//#MDL#//#Moldovan Leu#//#17.374701
+Monaco#//#EUR#//#Euro#//#0.866190
+Mongolia#//#MNT#//#Mongolia Tugrik#//#3595.649902
+Montenegro#//#EUR#//#Euro#//#0.866190
+Montserrat#//#XCD#//#E.C. Dollar#//#2.744600
+Morocco#//#MAD#//#Morocco Dirham#//#9.313900
+Mozambique#//#MZN#//#Mozambique Metical#//#63.625999
+Myanmar#//#MMK#//#Myanmar Kyat#//#2098.909912
+Namibia#//#NAD#//#Namibia Dollar#//#16.261700
+Nauru#//#AUD#//#Australian Dollar#//#1.421100
+Nepal#//#NPR#//#Nepalese Rupee#//#152.380005
+Netherlands#//#EUR#//#Euro#//#0.866190
+Netherlands Antilles#//#ANG#//#Netherlands Antilles Guilder#//#1.790000
+New Caledonia#//#XPF#//#CFP Franc#//#103.449997
+New Zealand#//#NZD#//#New Zealand Dollar#//#1.702100
+Nicaragua#//#NIO#//#Nicaragua Cordoba Oro#//#36.754002
+Niger#//#XOF#//#CFA Franc#//#568.179993
+Nigeria#//#NGN#//#Nigeria Naira#//#1362.819946
+Niue#//#NZD#//#New Zealand Dollar#//#1.702100
+"North Macedonia, Rep. of"#//#MKD#//#Denar#//#53.317001
+Northern Mariana Islands#//#USD#//#US Dollar#//#1.000000
+Norway#//#NOK#//#Norwegian Krone#//#9.522700
+Oman#//#OMR#//#Oman Rial#//#0.384500
+Pakistan#//#PKR#//#Pakistani Rupee#//#278.570007
+"Palau, Republic of"#//#USD#//#US Dollar#//#1.000000
+Panama#//#PAB#//#Panama Balboa#//#0.999940
+Papua New Guinea#//#PGK#//#Kina#//#4.440400
+Paraguay#//#PYG#//#Paraguay Guarani#//#5952.000000
+Peru#//#PEN#//#Sol#//#3.384300
+Philippines#//#PHP#//#Philippine Peso#//#60.834000
+Poland#//#PLN#//#Poland Zloty#//#3.726600
+Portugal#//#EUR#//#Euro#//#0.866190
+Puerto Rico#//#USD#//#US Dollar#//#1.000000
+Qatar#//#QAR#//#Qatari Rial#//#3.640000
+Reunion#//#EUR#//#Euro#//#0.866190
+Romania#//#RON#//#Romanian Leu#//#4.553300
+Russian Federation#//#RUB#//#Russian Rouble#//#81.779999
+Rwanda#//#RWF#//#Rwanda Franc#//#1470.530029
+Saint Helena#//#SHP#//#St.Helena Pound#//#0.743070
+Saint Kitts and Nevis#//#XCD#//#E.C. Dollar#//#2.744600
+Saint Lucia#//#XCD#//#E.C. Dollar#//#2.744600
+Samoa#//#WST#//#Samoa Tala#//#2.714600
+San Marino#//#EUR#//#Euro#//#0.866190
+Sao Tome and Principe#//#STN#//#Sao Tome Principe Dobra#//#21.323999
+Saudi Arabia#//#SAR#//#Saudi Riyal#//#3.750000
+Senegal#//#XOF#//#CFA Franc#//#568.179993
+Serbia#//#RSD#//#Serbian Dinar#//#101.720001
+Seychelles#//#SCR#//#Seychelles Rupee#//#14.070200
+Sierra Leone#//#SLE#//#Sierra Leone Leone#//#24.417999
+Singapore#//#SGD#//#Singapore Dollar#//#1.281700
+Slovakia#//#EUR#//#Euro#//#0.866190
+Slovenia#//#EUR#//#Euro#//#0.866190
+Solomon Islands#//#SBD#//#Solomon Is. Dollar#//#8.041100
+Somalia#//#SOS#//#Somali Shilling#//#571.630005
+South Africa#//#ZAR#//#South Africa Rand#//#16.272600
+South Sudan#//#SSP#//#South Sudanese Pound#//#5337.000000
+Spain#//#EUR#//#Euro#//#0.866190
+Sri Lanka#//#LKR#//#Sri Lanka Rupee#//#334.700012
+St. Vincent and the Grena#//#XCD#//#E.C. Dollar#//#2.744600
+Sudan#//#SDG#//#Sudanese Pound#//#600.299988
+Suriname#//#SRD#//#Surinamese Dollar#//#37.928001
+Sweden#//#SEK#//#Swedish Krona#//#9.486100
+Switzerland#//#CHF#//#Swiss Franc#//#0.810010
+Syrian Arab Republic#//#SYP#//#Syrian Pound#//#122.010002
+Tajikistan#//#TJS#//#Tajikistan Somoni#//#9.228600
+"Tanzania, United Rep. of"#//#TZS#//#Tanzania Shilling#//#2643.870117
+Thailand#//#THB#//#Thai Baht#//#33.066002
+Togo#//#XOF#//#CFA Franc#//#568.179993
+Tokelau Islands#//#NZD#//#New Zealand Dollar#//#1.702100
+Tonga#//#TOP#//#Tonga Pa'anga#//#2.364200
+Trinidad and Tobago#//#TTD#//#Trinidad and Tobago Dollar#//#6.747500
+Tunisia#//#TND#//#Tunisian Dinar#//#2.926700
+Turkey#//#TRY#//#Turkish Lira#//#47.651001
+Turkmenistan#//#TMT#//#Turkmenistan Manat#//#3.500000
+Turks and Caicos Island#//#USD#//#US Dollar#//#1.000000
+Tuvalu#//#AUD#//#Australian Dollar#//#1.421100
+Uganda#//#UGX#//#Uganda Shilling#//#3728.149902
+Ukraine#//#UAH#//#Ukraine Hryvnia#//#44.758999
+United Arab Emirates#//#AED#//#United Arab Emirates Dirham#//#3.672500
+United Kingdom#//#GBP#//#U.K. Pound#//#0.743070
+Uruguay#//#UYU#//#Uruguay Peso#//#40.250999
+Uzbekistan#//#UZS#//#Uzbekistan Sum#//#11927.000000
+Vanuatu#//#VUV#//#Vanuatu Vatu#//#118.160004
+Venezuela#//#VES#//#Bolivar Digital#//#756.719971
+Viet Nam#//#VND#//#Viet Nam Dong#//#26164.000000
+Virgin Islands (UK)#//#USD#//#US Dollar#//#1.000000
+Virgin Islands (USA)#//#USD#//#US Dollar#//#1.000000
+Wallis and Futuna Islands#//#XPF#//#CFP Franc#//#103.449997
+"Yemen, Republic of"#//#YER#//#Yemeni Rial#//#238.080002
+Zambia#//#ZMW#//#Zambia Kwacha#//#19.013100
+Zimbabwe#//#ZWG#//#Zimbabwe Gold#//#26.632000
